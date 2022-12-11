@@ -9,6 +9,7 @@
   "author": "Kott V",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "yargs": "^17.6.2"
   }
 }
